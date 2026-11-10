@@ -1,4 +1,4 @@
-# Trabalhos do Modulo 6 - Kit de ferramentas para Trabalho Remoto e Freelance 
+# Trabalhos do Módulo 6 - Kit de ferramentas para Trabalho Remoto e Freelance 
 
 ## 1 - AI Literacy para Produtividade
 
